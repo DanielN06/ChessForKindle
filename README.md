@@ -42,8 +42,21 @@ Brought to you by: ilgrufo <- THANKS TO HIM
 
 
 FOR THE OWNER:
-If you are the original owner of any content in this repository and would like it to be taken down, please feel free to reach out to me directly. I respect intellectual property and am happy to remove anything upon request.
+/**
+* @package HTML Chess
+* @version 1.0 revision #8
+* @author Stefano Gioffre', see README.txt
+* @copyleft 2010 Stefano Gioffre'
+* See COPYRIGHT.txt for copyright notices and details.
+* @license GNU/GPL Version 3, see LICENSE.txt
+* HTML Chess is free software; you can redistribute it and/or
+* modify it under the terms of the GNU General Public License
+* as published by the Free Software Foundation; version 3 of the License.
+*
+* http://htmlchess.sourceforge.net/
+*
+* The chess engine is written by Oscar Toledo (http://nanochess.110mb.com/),
+* the 3D canvas pieces and the 3D canvas renderer are written by Jacob
+* Seidelin (http://www.nihilogic.dk/).
+*/
 
-You can contact me on Discord at ohmygawddd.
-
-Thank you for your understanding!
